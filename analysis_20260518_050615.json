@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260518_050615",
+  "original_text": "ты дурак!!",
+  "translated_text": "You are a fool",
+  "abuse": [
+    {
+      "sentence_index": 0,
+      "offset": 0,
+      "length": 14,
+      "type": "personal_attack",
+      "severity": "high"
+    }
+  ],
+  "sentiment_expressions": [
+    {
+      "sentence_index": 0,
+      "offset": 0,
+      "length": 14,
+      "polarity": "negative",
+      "reasons": [
+        "intelligence"
+      ]
+    }
+  ],
+  "topics": []
+}
