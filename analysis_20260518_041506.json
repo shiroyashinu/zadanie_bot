@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260518_041506",
+  "text": "дурак",
+  "abuse": [
+    {
+      "type": "profanity",
+      "severity": "high",
+      "text": "дурак"
+    }
+  ],
+  "sentiment_expressions": [],
+  "topics": []
+}
