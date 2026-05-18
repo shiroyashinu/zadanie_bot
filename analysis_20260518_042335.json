@@ -1,0 +1,61 @@
+{
+  "timestamp": "20260518_042335",
+  "text": "Your code is fucking garbage, you stupid idiot. Learn how to program properly.",
+  "abuse": [
+    {
+      "sentence_index": 0,
+      "offset": 13,
+      "length": 7,
+      "text": "fucking",
+      "type": "profanity",
+      "severity": "extreme"
+    },
+    {
+      "sentence_index": 0,
+      "offset": 21,
+      "length": 7,
+      "text": "garbage",
+      "type": "profanity",
+      "severity": "low"
+    },
+    {
+      "sentence_index": 0,
+      "offset": 30,
+      "length": 16,
+      "text": "you stupid idiot",
+      "type": "personal_attack",
+      "severity": "medium",
+      "tags": [
+        "ableism"
+      ]
+    }
+  ],
+  "sentiment_expressions": [
+    {
+      "sentence_index": 0,
+      "offset": 13,
+      "length": 15,
+      "text": "fucking garbage",
+      "polarity": "negative"
+    },
+    {
+      "sentence_index": 0,
+      "offset": 30,
+      "length": 16,
+      "text": "you stupid idiot",
+      "polarity": "negative",
+      "reasons": [
+        "unintelligent",
+        "intelligence"
+      ]
+    }
+  ],
+  "topics": [
+    "music",
+    "performing arts",
+    "entertainment",
+    "representation",
+    "identification number",
+    "identification"
+  ]
+}
