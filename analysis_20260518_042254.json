@@ -1,0 +1,40 @@
+{
+  "timestamp": "20260518_042254",
+  "text": "You are a complete idiot and your work is terrible.",
+  "abuse": [
+    {
+      "sentence_index": 0,
+      "offset": 0,
+      "length": 24,
+      "text": "You are a complete idiot",
+      "type": "personal_attack",
+      "severity": "low",
+      "tags": [
+        "ableism"
+      ]
+    }
+  ],
+  "sentiment_expressions": [
+    {
+      "sentence_index": 0,
+      "offset": 0,
+      "length": 24,
+      "text": "You are a complete idiot",
+      "polarity": "negative",
+      "reasons": [
+        "intelligence"
+      ]
+    },
+    {
+      "sentence_index": 0,
+      "offset": 29,
+      "length": 21,
+      "text": "your work is terrible",
+      "polarity": "negative",
+      "reasons": [
+        "large"
+      ]
+    }
+  ],
+  "topics": []
+}
