@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260518_035837",
+  "text": "мудак",
+  "abuse": [
+    {
+      "type": "profanity",
+      "severity": "high",
+      "text": "мудак"
+    }
+  ],
+  "sentiment_expressions": [],
+  "topics": []
+}
