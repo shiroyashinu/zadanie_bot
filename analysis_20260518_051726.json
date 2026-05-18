@@ -1,0 +1,37 @@
+{
+  "timestamp": "20260518_051726",
+  "original_text": "Your football team is fucking useless. They can't even win a single match.",
+  "translated_text": "Твоя футбольная команда чертовски бесполезна. Они не могут выиграть ни одного матча.",
+  "abuse": [
+    {
+      "sentence_index": 0,
+      "offset": 22,
+      "length": 7,
+      "type": "profanity",
+      "severity": "extreme"
+    }
+  ],
+  "sentiment_expressions": [
+    {
+      "sentence_index": 0,
+      "offset": 0,
+      "length": 37,
+      "polarity": "negative",
+      "reasons": [
+        "usefulness"
+      ]
+    },
+    {
+      "sentence_index": 1,
+      "offset": 0,
+      "length": 28,
+      "polarity": "negative"
+    }
+  ],
+  "topics": [
+    "sports",
+    "commonwealth",
+    "football",
+    "relationship"
+  ]
+}
